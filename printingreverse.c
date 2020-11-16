@@ -10,7 +10,8 @@ int main()
     while(fahr>=lower)
     {
         celsius=5*(fahr-32)/9;
-        printf("%1.1f \t %0.3f\n",fahr,celsius);
+        printf("%1.1f \t %0.4f\n",fahr,celsius);
         fahr=fahr-decrement;
     }
+    
 }     
