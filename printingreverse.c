@@ -13,5 +13,6 @@ int main()
         printf("%1.1f \t %0.4f\n",fahr,celsius);
         fahr=fahr-decrement;
     }
-    
-}     
+
+}      
+
