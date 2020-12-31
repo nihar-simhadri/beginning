@@ -5,7 +5,7 @@ main()
    int fahr , celsius ;
    int lower, upper,increment;
    lower = 0;
-   upper = 300;
+   upper = 100;
    increment=5;
    celsius=lower;
    while(celsius<=upper){
