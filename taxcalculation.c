@@ -16,5 +16,5 @@ int main ()
     {
         tax=income*10/100;
     }
-    printf("your tax for the income is %d",tax);
+    printf("tax for your income is %d",tax);
 }
